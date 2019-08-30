@@ -53,4 +53,6 @@ and delete the
 
 **"build.gradle"** file.
 
-Then you can import the android samples using the Android Studio.
+Then you copy all the folders and files into the "turorial-2-mixedprocessing" folder.
+
+Lastly, you can import the android samples using the Android Studio.
